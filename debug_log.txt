@@ -1,0 +1,4 @@
+Source: Multi-Chapter Input (1 chapters)
+Chapters: 1
+Total files: 2
+Files: chapter_20251208_094453_001.txt, novel_complete_20251208_094453.txt

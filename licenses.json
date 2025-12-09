@@ -1,0 +1,44 @@
+[
+    {
+        "key": "3CB21959506AE0DE",
+        "created_at": "2025-12-08 09:20:01",
+        "expires_at": "2025-12-08 09:21:01",
+        "duration_value": "1",
+        "duration_unit": "minute",
+        "status": "expired",
+        "last_used": "2025-12-08 09:23:06",
+        "usage_count": 2,
+        "remaining_days": 1
+    },
+    {
+        "key": "NOVEL-ZAW368X686",
+        "created_at": "2025-12-08 09:34:37",
+        "expires_at": "2025-12-08 09:35:37",
+        "duration_value": 1,
+        "duration_unit": "minute",
+        "status": "expired",
+        "last_used": "2025-12-08 09:35:14",
+        "usage_count": 1,
+        "remaining_days": 0,
+        "remaining_text": "0 detik",
+        "remaining_hours": 0,
+        "remaining_minutes": 0,
+        "remaining_seconds": 0
+    },
+    {
+        "key": "NOVEL-C7JBD7JA37",
+        "created_at": "2025-12-08 09:44:15",
+        "expires_at": "2025-12-09 09:44:15",
+        "duration_value": 1,
+        "duration_unit": "day",
+        "status": "active",
+        "last_used": "2025-12-08 20:44:08",
+        "usage_count": 3,
+        "remaining_days": 0,
+        "remaining_hours": 23,
+        "remaining_minutes": 12,
+        "remaining_seconds": 53,
+        "remaining_text": "23 jam",
+        "last_check": "2025-12-08 20:44:08"
+    }
+]
